@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\moonju\\documents\\unreal projects\\unreallearningkit\\source\\unreallearningkit\\private\\characteraniminstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\moonju\\documents\\unreal projects\\unreallearningkit\\intermediate\\build\\win64\\x64\\unreallearningkiteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\moonju\\documents\\unreal projects\\unreallearningkit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreallearningkit\\definitions.unreallearningkit.h",
+            "c:\\users\\moonju\\documents\\unreal projects\\unreallearningkit\\source\\unreallearningkit\\public\\characteraniminstance.h",
+            "c:\\users\\moonju\\documents\\unreal projects\\unreallearningkit\\intermediate\\build\\win64\\unrealeditor\\inc\\unreallearningkit\\uht\\characteraniminstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
